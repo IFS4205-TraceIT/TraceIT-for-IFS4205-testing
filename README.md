@@ -10,8 +10,3 @@
 ## Repository List  
 * [URL](https://github.com/orgs/IFS4205-TraceIT/repositories)
 
-## Final Report
-* [URL](#)
-
-## Powerpoint Slides
-* [URL](#)
